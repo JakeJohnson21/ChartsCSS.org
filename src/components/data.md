@@ -8,7 +8,7 @@ The actual data can be added to the chart in a variety of ways. There are some b
 
 ## Add Data
 
-To add data to the chart you simply need to add new `<td>` tags. It can be and type of data - numbers, strings, HTML tags, images, media or whatever.
+To add data to the chart you simply need to add new `<td>` tags. It can be any type of data - numbers, strings, HTML tags, images, media or whatever.
 
 ```html{7,10,13,16,19}
 <table class="charts-css column">
